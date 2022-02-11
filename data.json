@@ -1,8 +1,8 @@
 {"data":[
-    {"ID":1, "Name":"Naveen Konchu", "Designation":"2 Wheeler"},
-    {"ID":2, "Name":"Joseph Iype", "Designation":"2 Wheeler"},
-    {"ID":3, "Name":"Rethic Jiji", "Designation":"2 Wheeler"},
-    {"ID":4, "Name":"Ricky Jay", "Designation":"4 wheeler"},
-    {"ID":5, "Name":"Abhishek Thomas", "Designation":"4 wheeler",
-    {"ID":6, "Name":"Elsa Baby", "Designation":"4 wheeler"},
+    {"ID":1, "Name":"Naveen Konchu", "Designation":"2 Wheeler","Totalposts":24000},
+    {"ID":2, "Name":"Joseph Iype", "Designation":"2 Wheeler","Totalposts":24000},
+    {"ID":3, "Name":"Rethic Jiji", "Designation":"2 Wheeler","Totalposts":24000},
+    {"ID":4, "Name":"Ricky Jay", "Designation":"4 wheeler","Totalposts":24000},
+    {"ID":5, "Name":"Abhishek Thomas", "Designation":"4 wheeler","Totalposts":24000,
+    {"ID":6, "Name":"Elsa Baby", "Designation":"4 wheeler","Totalposts":24000},
 ]}
