@@ -1,5 +1,5 @@
 {"data":[
-    {"ID":1, "Name":"Naveen Konchu", "Designation":"Advocate","Totalposts":12, "Address": "Addresslane1", "Phone": 9234776512, "Salary": 18000},
+    {"ID":1, "Name":"Naveen Konchu", "Designation":"2 Wheeler","Totalposts":24000, "Address": "Addresslane1", "Phone": 9234776512, "Salary": 18000},
     {"ID":2, "Name":"Joseph Iype", "Designation":"SDE","Totalposts":7,  "Address": "Addresslane2", "Phone": 9877530087, "Salary": 80000},
     {"ID":3, "Name":"Rethic Jiji", "Designation":"Advocate", "Totalposts":10, "Address": "Addresslane3", "Phone": 9722465589, "Salary": 45000},
     {"ID":4, "Name":"Ricky Jay", "Designation":"Student", "Totalposts":4,  "Address": "Addresslane4", "Phone": 9145667822, "Salary": 0},
